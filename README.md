@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hardiktalaviya
-- 👀 I’m interested in .py
+- 👀 I’m interested in mobile application devlopment
 - 🌱 I’m currently Working as react native devloper
 - 💞️ I’m looking to collaborate on it sectore
 - 📫 How to reach me 9723553038 india
