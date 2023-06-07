@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hardik040405
+- 👋 Hi, I’m @hardiktalaviya
 - 👀 I’m interested in .py
-- 🌱 I’m currently learning pcb disign
+- 🌱 I’m currently Working as react native devloper
 - 💞️ I’m looking to collaborate on it sectore
 - 📫 How to reach me 9723553038 india
 
